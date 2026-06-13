@@ -9,7 +9,7 @@ CNNs
     ├── AlexNet.ipynb       # Modified AlexNet + dropout experiments
     ├── VGG11.ipynb         # Adapted VGG-11 + dropout experiments  
     ├── ResNet.ipynb        # ResNet-11 and ResNet-18 + dropout experiments
-    ├── env.yml                      # Conda environment with all dependencies
+    ├── env.yml             # Conda environment with all dependencies
     └── README.md
 ```
 
